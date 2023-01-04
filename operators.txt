@@ -1,0 +1,135 @@
+arithmatical operators :- the arithmetic operators help in performing mathematical functions. Arithmetic Operators in
+ C allows a user to construct various formulas and mathematical equations.
+ 
+there are two types of arithmatical  operators in c  
+
+BINARY 
+UNARY 
+
+BINARY ARITHMATICAL OPERATORS 
+
+This type of operator operates on two of the operands .
+ 
+FOR EXAMPLE 
+
+var = A – B = 5
+
+UNARY ARITHMATICAL OPERATORS 
+
+This type of operator operates only on one operand
+
+FOR EXAMPLE 
+
+var = A–
+
+RELATIONAL OPERTATORS :-
+
+ a relational operator is a programming language construct or operator that tests or defines some kind of relation between two entities.
+
+there are several relational operators they are 
+
+Equal to
+
+Not equal to
+
+Less than
+
+Greater than
+
+Less than or equal to
+
+Greater than or equal to
+
+
+LOGICAL OPERTORS :-
+
+The logical operators in C are used for combining multiple constraints/ conditions 
+or for complementing the evaluation of any original condition that is under consideration.
+
+THERE ARE 3 TYPES OF LOGICAL OPERATORS 
+
+Logical NOT (!)
+Logical OR (||)
+Logical AND (&&)
+
+LOGICAL NOT (!) OPERATORS 
+
+This type of operator returns true whenever the conditions that are under condition are not at all satisfied. 
+ In any other case, it is bound to return false. For instance, the !p will return true if p is false, meaning, when p = 0.
+
+LOGICAL OR (||)
+
+This type of operator returns true even when both or even one of the conditions that are under consideration are satisfied. 
+In any other case, it is bound to return false. For instance,the p || q will return true when both or one of p and q are true (non-zero).
+It also returns to be true when p and q are true.
+
+LOGICAL AND (&&)
+
+This type of operator returns true when both the conditions that are under consideration happen to be satisfied. In any other case,
+it is bound to return false.For instance, the p && q will return true when both- p and q are true (non-zero).
+
+ASSIGNMENT OPERATORS :-
+
+An assignment operation assigns the value of the right-hand operand to the storage location named by the left-hand operand.
+Therefore, the left-hand operand of an assignment operation must be a modifiable l-value. After the assignment,
+an assignment expression has the value of the left operand but is not an l-value.
+
+TYPES OF ASSIGNMENT OPERATORS 
+
+basic assignment ( = )
+subtraction assignment ( -= )
+addition assignment ( += )
+division assignment ( /= )
+multiplication assignment ( *= )
+modulo assignment ( %= )
+bitwise XOR assignment ( ^= )
+bitwise OR assignment ( |= )
+bitwise AND assignment ( &= )
+bitwise right shift assignment ( >>= )
+bitwise left shift assignment ( <<= )
+
+BIT WISE OPERATOR :-
+
+ the bitwise operators in C language is used  to perform operations on the available data at a bit level. 
+Thus, performing a bitwise operation is also called bit-level programming.
+
+TYPES OF BIT WISE OPERATORS
+
+Bitwise OR Operator
+Bitwise AND Operator
+Unary Operator (Binary One’s complement operator)
+Bitwise XOR Operator
+Binary Right Shift Operator
+Binary Left Shift Operator
+
+CONDITIONAL OPERATOR :-
+
+he conditional operator is the one and only ternary operator in the C programming language. 
+It can be used as an alternative for if-else condition if the 'if else' has only one statement each. 
+
+BITWISE SHIFT OPERATORS :-
+
+Bitwise shift operator is used to shift the binary bits either in the left direction or right direction 
+according to the program's requirement.
+
+THERE ARE TWO TYPES OF SHIFT OPERATORS 
+
+. LEFT SHIFT OPERATOR 
+. RIGHT SHIFT OPERATORS 
+
+LEFT SHIFT OPERATOR 
+
+The left shift operator is a type of Bitwise shift operator, which performs operations on the binary bits. 
+It is a binary operator that requires two operands to shift or move the position of the bits to the left side and add zeroes to the empty
+space created at the right side after shifting the bits.
+
+
+RIGHT SHIFT OPERATOR 
+The right shift operator is a type of bitwise shift operator used to move the bits at the right side, and it is represented 
+as the double (>>) arrow symbol. Like the Left shift operator, the Right shift operator also requires two Operands to shift the bits at
+ the right side and then insert the zeroes at the empty space created at the left side after shifting the bits.
+
+
+
+
+
